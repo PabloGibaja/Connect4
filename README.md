@@ -14,3 +14,7 @@ python Connect4.py
 
 ## Instructions
 - Left click on mouse to drop the tokens
+
+![](https://github.com/PabloGibaja/Connect4/blob/Connect4-visual-AI/Connect4.PNG)
+
+
